@@ -1,0 +1,100 @@
+{
+  "project_info": {
+    "project_number": "640559556492",
+    "project_id": "rmechanic-bf4c2",
+    "storage_bucket": "rmechanic-bf4c2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:640559556492:android:bf3761b583e25f2c84d8a9",
+        "android_client_info": {
+          "package_name": "com.rmechanic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "640559556492-ivb57lsfgda7fd491aam2095pf60o4mo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rmechanic",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "640559556492-vb81pnld5ulaa0qphmrkdvj3b6a4kndf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rmechanic",
+            "certificate_hash": "d0a106d5cc7007ee08779237a134cfd9ebc15fdb"
+          }
+        },
+        {
+          "client_id": "640559556492-q7jomc5ptfg9fkc1b87sm7vf17o9an7k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvmV_fGiDDUKpQ5Vffb_Qi91jl2tXfEok"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "640559556492-q7jomc5ptfg9fkc1b87sm7vf17o9an7k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:640559556492:android:59715ecf856ff4fc84d8a9",
+        "android_client_info": {
+          "package_name": "com.rmerchant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "640559556492-5gsmavphuern3kup1v1dr7jih1gf18ht.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rmerchant",
+            "certificate_hash": "d0a106d5cc7007ee08779237a134cfd9ebc15fdb"
+          }
+        },
+        {
+          "client_id": "640559556492-qr9enjrr4s0qgeq6esiv26hmnjdvqf1h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rmerchant",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "640559556492-q7jomc5ptfg9fkc1b87sm7vf17o9an7k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvmV_fGiDDUKpQ5Vffb_Qi91jl2tXfEok"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "640559556492-q7jomc5ptfg9fkc1b87sm7vf17o9an7k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
